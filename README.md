@@ -4,7 +4,7 @@
 A machine learning-powered web app that predicts whether a breast tumor is **Benign** or **Malignant** using clinical data from digitized breast biopsies.
 
 ---
-## 📁 Folder Structure
+```bash
 BREAST_CANCER_APP/
 ├── app/
 │   └── main.py
@@ -17,6 +17,7 @@ BREAST_CANCER_APP/
 │   └── scalar.pkl
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
