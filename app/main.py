@@ -16,6 +16,15 @@ def get_clean_data():
 def add_sidebar():
     st.sidebar.header("Cell Nuclie Measurements")
 
+        # ➕ Instruction block
+    st.sidebar.markdown("""
+    <div style='font-size: 15px; line-height: 1.6; padding-bottom: 10px; color: #e1e1e1;'>
+        🧪 <b>Instructions:</b><br>
+        Use the sliders below to simulate various cell nucleus features extracted from breast tissue samples.<br>
+        🧠 <i>The app will predict whether the tumor is likely <b>Benign</b> or <b>Malignant</b>.</i>
+    </div>
+    """, unsafe_allow_html=True)
+
     data = get_clean_data()
 
     slider_labels = [
