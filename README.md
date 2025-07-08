@@ -4,23 +4,6 @@
 A machine learning-powered web app that predicts whether a breast tumor is **Benign** or **Malignant** using clinical data from digitized breast biopsies.
 
 ---
-## 📁 Folder Structure
-```bash
-BREAST_CANCER_APP/
-├── app/
-│   └── main.py
-├── assets/
-├── data/
-│   └── data.csv
-├── model/
-│   ├── main.py
-│   ├── model.pkl
-│   └── scalar.pkl
-├── requirements.txt
-└── README.md
-```
-
----
 
 ## 📊 Dataset Overview
 
@@ -65,6 +48,25 @@ The model uses the **Breast Cancer Wisconsin (Diagnostic) Dataset** from the [UC
 ### 📌 Prediction Output + Radar Chart
 
 ![Prediction Result](https://raw.githubusercontent.com/vsingh10/Breast_Cancer_App/main/assets/image.png)
+
+---
+
+---
+## 📁 Folder Structure
+```bash
+BREAST_CANCER_APP/
+├── app/
+│   └── main.py
+├── assets/
+├── data/
+│   └── data.csv
+├── model/
+│   ├── main.py
+│   ├── model.pkl
+│   └── scalar.pkl
+├── requirements.txt
+└── README.md
+```
 
 ---
 
@@ -122,7 +124,7 @@ emoji
 ## 👨‍💻 Author
 
 **Vishal Singh**  
-📧 your.email@example.com  
+📧 vishalsinghforcv@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/vishal-singh10/)
 
 ---
