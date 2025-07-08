@@ -7,16 +7,16 @@ A machine learning-powered web app that predicts whether a breast tumor is **Ben
 ## 📁 Folder Structure
 BREAST_CANCER_APP/
 ├── app/
-│ └── main.py 
-├── assets/ 
+│   └── main.py
+├── assets/
 ├── data/
-│ └── data.csv 
+│   └── data.csv
 ├── model/
-│ ├── main.py 
-│ ├── model.pkl 
-│ └── scalar.pkl 
-├── requirements.txt 
-└── README.md 
+│   ├── main.py
+│   ├── model.pkl
+│   └── scalar.pkl
+├── requirements.txt
+└── README.md
 
 ---
 
