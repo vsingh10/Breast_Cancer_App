@@ -4,10 +4,19 @@
 A machine learning-powered web app that predicts whether a breast tumor is **Benign** or **Malignant** using clinical data from digitized breast biopsies.
 
 ---
-
-## 🌐 Live App
-
-👉 **Try it now**: [https://breastcancerpredictapp.streamlit.app/](https://breastcancerpredictapp.streamlit.app/)
+## 📁 Folder Structure
+BREAST_CANCER_APP/
+├── app/
+│ └── main.py 
+├── assets/ 
+├── data/
+│ └── data.csv 
+├── model/
+│ ├── main.py 
+│ ├── model.pkl 
+│ └── scalar.pkl 
+├── requirements.txt 
+└── README.md 
 
 ---
 
